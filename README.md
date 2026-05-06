@@ -1,5 +1,7 @@
 # CP317 Group Project: BiteWise - A Dietary Restriction Meal Matcher Platform
 
+Demo Video: BiteWiseVideo.mp4 in repository
+
 ## Project Type
 **BiteWise** is a **full-stack web application** for **healthy meal planning and recipe tracking**.  
 It helps users discover recipes, track nutritional information, and make healthier food choices based on dietary restrictions and allergens.
